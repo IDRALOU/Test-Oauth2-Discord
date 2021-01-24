@@ -2,4 +2,4 @@
 
 Si vous voulez tester de vous-même j'ai mis le projet sur [heroku](https://site-random.herokuapp.com)
 
-Pour me contacter c'est toujours via Discord, Teobre#0787
+Pour me contacter c'est toujours via Discord, IDRALOU#6966
