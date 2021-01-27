@@ -7,7 +7,7 @@ import os
 init(convert=True)
 
 client_id = ""
-client_secret = "" # go to https://discord.com/developers/applications
+client_secret = ""
 scope = "identify"
 redirect_uri = ""
 token_url = "https://discord.com/api/oauth2/token"
